@@ -1,0 +1,22 @@
+export const chapterOrder = [
+  "introduction",
+  "sdlc",
+  "stlc",
+  "defect-lifecycle",
+  "test-design-techniques",
+  "test-cases",
+  "jira",
+  "sql",
+  "java",
+  "selenium",
+  "testng",
+  "cucumber",
+  "api-testing",
+  "rest-assured",
+  "git",
+  "jenkins",
+  "docker",
+  "aws",
+  "playwright",
+  "ai-testing"
+];
