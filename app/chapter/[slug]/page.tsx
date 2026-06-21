@@ -1,31 +1,37 @@
-import Link from "next/link";
-import { getAllChapters, Chapter } from "../../../lib/getAllChapters";
+import { getChapterBySlug } from "../../../lib/chapters";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
+import ChapterNavigation from "../../../components/ChapterNavigation";
+import { getChapterNavigation } from "../../../lib/chapterNavigation";
 
-export default function Home() {
-  const chapters = getAllChapters();
+export default async function ChapterPage({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}) {
+  const { slug } = await params;
+
+  const chapter = getChapterBySlug(slug);
+  const navigation = getChapterNavigation(slug);
+
+  if (!chapter) {
+    return (
+      <main className="p-8">
+        <h1>Chapter not found</h1>
+      </main>
+    );
+  }
 
   return (
-    <main className="max-w-5xl mx-auto p-10">
-      <h1 className="text-5xl font-bold mb-4">
-        QA Automation Handbook
-      </h1>
-
-      <p className="mb-8">
-        Complete roadmap from Manual Tester to SDET
-      </p>
-
-      <div className="space-y-3">
-        {chapters.map((chapter: Chapter) => (
-          <div key={chapter.slug}>
-            <Link
-              href={`/chapter/${chapter.slug}`}
-              className="text-blue-600 hover:underline"
-            >
-              Chapter {chapter.chapter}: {chapter.title}
-            </Link>
-          </div>
-        ))}
-      </div>
+    <main className="flex-1 p-10">
+    <article className="prose max-w-4xl"></article>
+      <ReactMarkdown remarkPlugins={[remarkGfm]}>
+        {chapter.content}
+      </ReactMarkdown>
+      <ChapterNavigation
+    previous={navigation.previous}
+    next={navigation.next}
+  />
     </main>
   );
 }

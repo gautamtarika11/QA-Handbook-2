@@ -1,0 +1,31 @@
+[
+  {
+    "section": "Foundations",
+    "chapters": [
+      "introduction",
+      "software-testing-fundamentals",
+      "sdlc",
+      "stlc",
+      "defect-lifecycle"
+    ]
+  },
+  {
+    "section": "Manual Testing",
+    "chapters": [
+      "test-scenarios",
+      "test-cases",
+      "rtm",
+      "bug-life-cycle"
+    ]
+  },
+  {
+    "section": "Automation",
+    "chapters": [
+      "java",
+      "oops",
+      "selenium",
+      "testng",
+      "cucumber"
+    ]
+  }
+]
