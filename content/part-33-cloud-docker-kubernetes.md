@@ -4,7 +4,7 @@ title: Cloud, Docker & Kubernetes for SDETs
 part: 33
 slug: cloud-docker-and-kubernetes-for-sdets
 description: Comprehensive guide for SDETs covering AWS fundamentals, Azure fundamentals, Docker, containerized automation frameworks, Kubernetes basics, and Selenium Grid on Docker.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 # Part 33 — Cloud, Docker & Kubernetes for SDETs
 
