@@ -2,7 +2,7 @@
 
 title: Agile & Scrum for Testers
 part: 4
-slug: agile-scrum-for-testers
+slug: agile-and-scrum-for-testers
 description: Master Agile principles, Scrum framework, Agile testing practices, Scrum ceremonies, Agile metrics, and learn how QA Engineers and SDETs operate successfully within Agile teams.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
