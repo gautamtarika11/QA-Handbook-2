@@ -4,7 +4,7 @@ title: SDET System Design & Architecture
 part: 35
 slug: sdet-system-design-and-architecture
 description: Advanced SDET handbook covering Test Architecture Design, Framework Scalability, Automation Strategy, Enterprise Automation Solutions, Technical Leadership, and System Design concepts required for Senior SDET and Automation Architect roles.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 35 — SDET System Design & Architecture
 

@@ -4,7 +4,7 @@ title: Software Testing Life Cycle (STLC)
 part: 3
 slug: software-testing-life-cycle-stlc
 description: Learn the complete Software Testing Life Cycle including requirement analysis, planning, test design, execution, defect management, closure activities, and industry-standard QA documentation.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 3 — Software Testing Life Cycle (STLC)
 

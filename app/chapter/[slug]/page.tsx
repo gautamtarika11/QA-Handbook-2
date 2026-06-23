@@ -3,6 +3,9 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import ChapterNavigation from "../../../components/ChapterNavigation";
 import { getChapterNavigation } from "../../../lib/chapterNavigation";
+import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
+import { oneDark } from "react-syntax-highlighter/dist/esm/styles/prism";
+import CodeBlock from "../../../components/codeBlock";
 
 export default async function ChapterPage({
   params,
@@ -23,15 +26,35 @@ export default async function ChapterPage({
   }
 
   return (
-    <main className="flex-1 p-10">
-    <article className="prose max-w-4xl"></article>
-      <ReactMarkdown remarkPlugins={[remarkGfm]}>
-        {chapter.content}
-      </ReactMarkdown>
-      <ChapterNavigation
-    previous={navigation.previous}
-    next={navigation.next}
-  />
-    </main>
-  );
+  <main className="flex-1 px-12 py-10">
+  <article className="prose mx-auto max-w-3xl">
+    <ReactMarkdown
+  remarkPlugins={[remarkGfm]}
+  components={{
+    code(props) {
+      const { children, className } = props;
+
+      const match = /language-(\w+)/.exec(
+        className || ""
+      );
+
+      return (
+        <CodeBlock
+          code={String(children).replace(/\n$/, "")}
+          language={match?.[1]}
+        />
+      );
+    },
+  }}
+>
+  {chapter.content}
+</ReactMarkdown>
+
+    <ChapterNavigation
+      previous={navigation.previous}
+      next={navigation.next}
+    />
+  </article>
+  </main>
+) ;
 }

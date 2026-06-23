@@ -4,7 +4,7 @@ title: Collections Masterclass
 part: 11
 slug: collections-masterclass
 description: Master the Java Collections Framework including List, Set, Queue, Map, ArrayList, LinkedList, Vector, HashSet, LinkedHashSet, TreeSet, PriorityQueue, HashMap, LinkedHashMap, TreeMap, and their practical usage in Automation Frameworks.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 11 — Collections Masterclass
 

@@ -14,6 +14,10 @@ export function getChapterBySlug(slug: string) {
     );
 
     const { data } = matter(fileContent);
+    console.log("File:", file);
+    console.log("Slug in file:", data.slug);
+    console.log("Looking for:", slug);
+
 
     return data.slug === slug;
   });

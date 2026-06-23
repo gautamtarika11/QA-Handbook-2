@@ -1,10 +1,8 @@
-import { getAllChapters } from "./getAllChapters";
+import { parts } from "./partsData";
 
 export function getChapterNavigation(slug: string) {
-  const chapters = getAllChapters();
-
-  const currentIndex = chapters.findIndex(
-    (chapter) => chapter.slug === slug
+  const currentIndex = parts.findIndex(
+    (part) => part.slug === slug
   );
 
   if (currentIndex === -1) {
@@ -17,12 +15,12 @@ export function getChapterNavigation(slug: string) {
   return {
     previous:
       currentIndex > 0
-        ? chapters[currentIndex - 1]
+        ? parts[currentIndex - 1]
         : null,
 
     next:
-      currentIndex < chapters.length - 1
-        ? chapters[currentIndex + 1]
+      currentIndex < parts.length - 1
+        ? parts[currentIndex + 1]
         : null,
   };
 }

@@ -4,7 +4,7 @@ title: Manual Testing Masterclass
 part: 5
 slug: manual-testing-masterclass
 description: Master all major manual testing types, methodologies, techniques, and real-world testing practices used by QA Engineers, Senior Test Engineers, and SDETs.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 5 — Manual Testing Masterclass
 

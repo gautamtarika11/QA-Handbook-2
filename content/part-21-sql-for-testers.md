@@ -4,7 +4,7 @@ title: SQL for Testers
 part: 21
 slug: sql-for-testers
 description: Master SQL for Software Testers including Database Fundamentals, SQL Queries, Joins, Subqueries, Window Functions, Database Testing, and SQL Interview Preparation.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 21 — SQL for Testers
 

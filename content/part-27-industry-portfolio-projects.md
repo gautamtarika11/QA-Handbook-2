@@ -4,7 +4,7 @@ title: Industry Portfolio Projects
 part: 27
 slug: industry-portfolio-projects
 description: Build an industry-grade QA Automation portfolio using Selenium, Playwright, API Automation, Hybrid Frameworks, GitHub best practices, project demonstrations, and interview-ready project discussions.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 27 — Industry Portfolio Projects
 

@@ -4,7 +4,7 @@ title: Git & GitHub for QA Engineers
 part: 17
 slug: git-and-github-for-qa-engineers
 description: Master Git and GitHub for Automation Engineers and SDETs including version control, branching strategies, merging, rebasing, pull requests, conflict resolution, and team collaboration workflows.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 17 — Git & GitHub for QA Engineers
 

@@ -4,7 +4,7 @@ title: Selenium Advanced Concepts
 part: 14
 slug: selenium-advanced-concepts
 description: Master advanced Selenium WebDriver concepts including Wait Strategies, Dropdowns, Alerts, Frames, Windows, Tabs, Actions Class, Robot Class, JavaScript Executor, File Handling, Dynamic Web Tables, Calendars, Shadow DOM, and real-world automation scenarios.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 14 — Selenium Advanced Concepts
 

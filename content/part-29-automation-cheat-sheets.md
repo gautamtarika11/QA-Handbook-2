@@ -4,7 +4,7 @@ title: Complete Automation Cheat Sheets
 part: 29
 slug: complete-automation-cheat-sheets
 description: Complete quick-reference guide covering Software Testing, Agile, Java, OOP, Collections, Selenium, XPath, CSS Selectors, TestNG, Maven, Git, SQL, API Testing, REST Assured, Jenkins, and Playwright.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 29 — Complete Automation Cheat Sheets
 

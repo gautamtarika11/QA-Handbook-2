@@ -4,7 +4,7 @@ title: Exception Handling Masterclass
 part: 12
 slug: exception-handling-masterclass
 description: Master Java Exception Handling including Checked Exceptions, Unchecked Exceptions, Try-Catch, Finally, Throw, Throws, Custom Exceptions, and real-world Exception Handling strategies used in Automation Frameworks.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 12 — Exception Handling Masterclass
 

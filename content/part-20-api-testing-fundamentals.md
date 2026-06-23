@@ -4,7 +4,7 @@ title: API Testing Fundamentals
 part: 20
 slug: api-testing-fundamentals
 description: Master API Testing Fundamentals including REST, SOAP, HTTP Protocol, Methods, Status Codes, Authentication, JSON, XML, Postman, Swagger, API Validation, and API Test Case Design.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 20 — API Testing Fundamentals
 

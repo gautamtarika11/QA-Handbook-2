@@ -4,7 +4,7 @@ title: Test Design Techniques & Test Cases
 part: 6
 slug: test-design-techniques-and-test-cases
 description: Master test design techniques, test case creation, test data preparation, RTM creation, and industry-standard test case design methodologies used by QA Engineers and SDETs.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 6 — Test Design Techniques & Test Cases
 

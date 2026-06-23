@@ -2,9 +2,9 @@
 
 title: Automation & SDET Interview Preparation
 part: 26
-slug: automation-sdet-interview-preparation
+slug: automation-and-sdet-interview-preparation
 description: Complete Automation Engineer and SDET Interview Preparation Handbook covering Manual Testing, Agile, Java, OOP, Collections, Selenium, API Testing, SQL, Jenkins, Playwright, AI Testing, and HR interviews.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 26 — Automation & SDET Interview Preparation
 

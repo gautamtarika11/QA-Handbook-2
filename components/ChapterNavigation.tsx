@@ -1,14 +1,9 @@
 import Link from "next/link";
-
-interface Chapter {
-  title: string;
-  chapter: number;
-  slug: string;
-}
+import { Part } from "../lib/partsData";
 
 interface Props {
-  previous: Chapter | null;
-  next: Chapter | null;
+  previous: Part | null;
+  next: Part | null;
 }
 
 export default function ChapterNavigation({
@@ -23,7 +18,7 @@ export default function ChapterNavigation({
             href={`/chapter/${previous.slug}`}
             className="block rounded border px-4 py-3 hover:bg-gray-50"
           >
-            ← Chapter {previous.chapter}: {previous.title}
+            ← Part {previous.part}: {previous.title}
           </Link>
         )}
       </div>
@@ -34,7 +29,7 @@ export default function ChapterNavigation({
             href={`/chapter/${next.slug}`}
             className="block rounded border px-4 py-3 hover:bg-gray-50"
           >
-            Chapter {next.chapter}: {next.title} →
+            Part {next.part}: {next.title} →
           </Link>
         )}
       </div>

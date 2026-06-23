@@ -4,7 +4,7 @@ title: JIRA Complete Guide
 part: 8
 slug: jira-complete-guide
 description: Master Atlassian JIRA for QA, Agile, Scrum, defect tracking, sprint management, reporting, dashboards, JQL, and complete project execution workflows used in real-world software teams.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 8 — JIRA Complete Guide
 

@@ -4,7 +4,7 @@ title: Maven for Automation Engineers
 part: 16
 slug: maven-for-automation-engineers
 description: Master Apache Maven for Automation Testing including project structure, pom.xml, dependency management, plugins, build lifecycle, Maven commands, and Selenium/TestNG framework integration.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 16 — Maven for Automation Engineers
 

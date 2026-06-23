@@ -4,7 +4,7 @@ title: Core Java for Automation Testers
 part: 9
 slug: core-java-for-automation-testers
 description: Master Core Java from an Automation Testing and SDET perspective, including OOP, Collections, Exception Handling, File Handling, Selenium-oriented programming concepts, and 100 coding exercises.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 9 — Core Java for Automation Testers
 

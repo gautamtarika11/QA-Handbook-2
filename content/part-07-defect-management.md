@@ -4,7 +4,7 @@ title: Defect Management
 part: 7
 slug: defect-management
 description: Master the complete defect management process including defect lifecycle, bug reporting, severity and priority classification, root cause analysis, defect metrics, defect prevention, and real-world defect management practices.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 7 — Defect Management
 
@@ -706,7 +706,7 @@ Early quality activities reduce defects significantly.
 #### Login Failure
 
 | Field       | Value                                        |
-| ----------- | -------------------------------------------- |
+| ----------- | ------ |
 | Defect ID   | BUG-101                                      |
 | Title       | User unable to login using valid credentials |
 | Severity    | Critical                                     |

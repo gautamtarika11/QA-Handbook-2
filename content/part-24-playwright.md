@@ -4,8 +4,7 @@ title: Playwright Automation
 part: 24
 slug: playwright-automation
 description: Master Playwright Automation including architecture, installation, locators, actions, assertions, fixtures, hooks, parallel execution, reporting, framework design, and Selenium to Playwright migration strategies.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+---
 # Part 24 — Playwright Automation
 
 ## Learning Objectives

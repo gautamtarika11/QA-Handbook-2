@@ -4,7 +4,7 @@ title: Reporting & Logging
 part: 19
 slug: reporting-and-logging
 description: Master Reporting and Logging in Automation Frameworks including Extent Reports, Allure Reports, Screenshot Utilities, Log4j2, and enterprise-grade framework integration practices.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 19 — Reporting & Logging
 

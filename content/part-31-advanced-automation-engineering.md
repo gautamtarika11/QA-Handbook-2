@@ -4,7 +4,7 @@ title: Advanced Automation Engineering
 part: 31
 slug: advanced-automation-engineering
 description: Master advanced automation engineering concepts including Design Patterns, Singleton Pattern, Factory Pattern, Builder Pattern, Dependency Injection, SOLID Principles, and Clean Code Practices for scalable enterprise automation frameworks.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 31 — Advanced Automation Engineering
 

@@ -4,7 +4,7 @@ title: OOP Masterclass
 part: 10
 slug: oop-masterclass
 description: Master Object-Oriented Programming concepts including Classes, Objects, Encapsulation, Inheritance, Polymorphism, Abstraction, Interfaces, Association, Aggregation, Composition, and their practical usage in Automation Testing Frameworks.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 10 — OOP Masterclass
 

@@ -4,7 +4,7 @@ title: TestNG Masterclass
 part: 15
 slug: testng-masterclass
 description: Master TestNG for Automation Testing including Annotations, Assertions, Groups, Dependencies, Data Providers, Parameters, XML Configuration, Parallel Execution, Retry Mechanisms, Listeners, and Reporting.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 15 — TestNG Masterclass
 

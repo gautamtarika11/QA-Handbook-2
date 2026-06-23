@@ -4,7 +4,7 @@ title: Jenkins & CI/CD
 part: 22
 slug: jenkins-and-cicd
 description: Master Jenkins and CI/CD for Automation Engineers including CI/CD fundamentals, Jenkins architecture, jobs, pipelines, Git integration, Maven integration, scheduled builds, automated execution, and reporting integration.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 22 — Jenkins & CI/CD
 

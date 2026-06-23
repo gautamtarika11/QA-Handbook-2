@@ -4,7 +4,7 @@ title: Performance Testing
 part: 34
 slug: performance-testing
 description: Complete Performance Testing handbook covering JMeter, Load Testing, Stress Testing, Spike Testing, Endurance Testing, Performance Analysis, Metrics, Monitoring, Reporting, and Industry Best Practices.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 34 — Performance Testing
 

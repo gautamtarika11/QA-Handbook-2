@@ -4,7 +4,7 @@ title: 180 Day Roadmap
 part: 28
 slug: 180-day-roadmap
 description: Complete 180-Day Roadmap to transform from Manual Tester to Automation Engineer and SDET covering Testing, Java, Selenium, Framework Development, API Automation, CI/CD, Playwright, AI Testing, and Interview Preparation.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 28 — 180 Day Roadmap
 

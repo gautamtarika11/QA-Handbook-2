@@ -4,7 +4,7 @@ title: REST Assured API Automation
 part: 23
 slug: rest-assured-api-automation
 description: Master REST Assured API Automation including project setup, HTTP requests, request specifications, response validation, assertions, JSON parsing, serialization, deserialization, framework design, and reporting integration.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 23 — REST Assured API Automation
 

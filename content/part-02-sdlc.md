@@ -4,7 +4,7 @@ title: Software Development Life Cycle (SDLC)
 part: 2
 slug: software-development-life-cycle-sdlc
 description: Master SDLC models, development methodologies, Agile practices, Scrum framework, and understand how testing integrates throughout the software development lifecycle.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 2 — Software Development Life Cycle (SDLC)
 

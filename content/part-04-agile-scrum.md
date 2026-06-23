@@ -4,7 +4,7 @@ title: Agile & Scrum for Testers
 part: 4
 slug: agile-and-scrum-for-testers
 description: Master Agile principles, Scrum framework, Agile testing practices, Scrum ceremonies, Agile metrics, and learn how QA Engineers and SDETs operate successfully within Agile teams.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 4 — Agile & Scrum for Testers
 
@@ -980,7 +980,7 @@ Execute QA activities throughout three Agile Sprints.
 ## Cheat Sheet
 
 | Concept             | Summary                                    |
-| ------------------- | ------------------------------------------ |
+| ------------------- | ---- |
 | Agile               | Iterative software development methodology |
 | Scrum               | Agile framework                            |
 | Sprint              | Time-boxed iteration                       |

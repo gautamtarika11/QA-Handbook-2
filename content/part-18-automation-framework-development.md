@@ -4,7 +4,7 @@ title: Automation Framework Development
 part: 18
 slug: automation-framework-development
 description: Master Automation Framework Development including framework architecture, Page Object Model, base classes, utilities, configuration management, data-driven frameworks, keyword-driven frameworks, hybrid frameworks, and enterprise-grade framework design principles.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 18 — Automation Framework Development
 

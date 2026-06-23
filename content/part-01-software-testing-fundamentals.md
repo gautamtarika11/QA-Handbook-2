@@ -4,7 +4,7 @@ title: Software Testing Fundamentals
 part: 1
 slug: software-testing-fundamentals
 description: Learn the foundations of software testing including quality concepts, testing principles, defect lifecycle, risk-based testing, and the mindset required to become a successful QA Engineer or SDET.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Part 1 — Software Testing Fundamentals
 
